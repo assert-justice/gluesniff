@@ -1,0 +1,16 @@
+{
+  "name": "gluesniff",
+  "version": "0.0.1",
+  "description": "A bad canvas drawing library (that no one should use)",
+  "main": "lib/gluesniff.js",
+  "type": "module",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
